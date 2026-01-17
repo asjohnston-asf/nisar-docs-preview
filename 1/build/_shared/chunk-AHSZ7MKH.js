@@ -1,4 +1,4 @@
-import{b as e}from"/nisar-docs/1/build/_shared/chunk-7DW7L33J.js";var l=e(()=>`
+import{b as e}from"/nisar-docs-preview/1/build/_shared/chunk-7DW7L33J.js";var l=e(()=>`
   /* Font Awesome icon styling - consolidated */
   .label-icon {
     display: inline-block;
